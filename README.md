@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @massika-dot
+- 👋 Hi, I’m @massika
 - 👀 I’m interested in Web Design,and Mobile and web Apps Development
 - 🌱 I’m currently learning VueJs, Laravel, Java
 - 💞️ I’m looking to collaborate on ...
